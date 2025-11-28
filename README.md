@@ -1,5 +1,9 @@
 # Medical-appQAP4JAVA
-
+1. This problem took about 3 hours (had pgadmin issues)
+2. I used stack overflow, youtube, reddit, and a formatter
+3. No.
+4. No.
+5. Difficulty of problems I would rate a 5/10 as they are much more time consuming than challenging
 
 
 <img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/27c25262-1c3d-4925-b896-9c538812f984" />
